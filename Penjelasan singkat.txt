@@ -7,3 +7,6 @@ cara menghasilkan intesitas cahaya yang tepat untuk menghasilkan gambar, digunak
 - sejarah fotografi
 dimulai pada abad ke-19 tahun 1839 merupakan tahun awal kelahiran fotografi. pada saat itu, di perancis dinyatakan secara resmi bahwa fotografi adalah sebuah terobosan teknologi. saat itu, rekaman dua dimensi seperti yang dilihat mata sudah bisa dibuat permanen.
 sejarah fotografi bermula jauh sebelum Masehi. pada abad ke-5 sebelum masehi (SM), seorang pria bernama Mo Ti mengamati suatu gejala. jika pada dinding ruangan yang gelap terdapat lubang kecil (Pinhole), maka di bagian dalam ruang itu akan terefleksikan pemandangan di luar ruang secara terbalik lewat lubang tadi. Mo Ti adalah orang pertama yang menyadari fenomena kamera obscura.
+ istilah fotografi :
+ 1. aperture (pembukaan diagfrahma lensa)
+ 2. viewfinder (lubang yang digunakan untuk melihat objek akan difoto)
